@@ -10,7 +10,6 @@ const backendApiUrl =
   "http://127.0.0.1:8001";
 
 const nextConfig: NextConfig = {
-  distDir: ".next-webpack",
   devIndicators: false,
   async rewrites() {
     return [
