@@ -10,6 +10,10 @@ Dental Appointment Booking Assistant is a full-stack booking and clinic notifica
 - Make webhook notification payload for Gmail clinic emails.
 - Clinic dashboard endpoint for viewing submitted appointment requests.
 
+## Portfolio Projects
+
+- [Genetic Disorder Machine Learning Project](genetic-disorder-ml/) - a reproducible Python ML workflow for cleaning a clinical genetics dataset, engineering preprocessing pipelines, balancing classes, training SVM/Random Forest/Decision Tree classifiers, and saving model metrics for review.
+
 ## Tech Stack
 
 - Frontend: Next.js, React, TypeScript, Tailwind CSS
